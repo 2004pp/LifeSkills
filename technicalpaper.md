@@ -2,7 +2,7 @@ Apache Kafka
 
 # What is Apache Kafka
 
-It is a Open Source Distributed Platform for real-time data Streaming and Data Processing.
+It is an Open Source Distributed Platform for real-time data Streaming and Data Processing.
 
 # What is the use of Apache Kafka?
 
@@ -34,11 +34,11 @@ Message -----> Data Handled by Apache Kafka
 
 The message Has three parts:
 
-1)Headers   ---> Contains metadata like topics and partitioning
+1)Headers ---> Contains metadata like topics and partitioning
 
-2)Key  --- key for producers/organizations
+2)Key  ----> key for producers/organizations
 
-3)Value  -->Actual data to deploy payload
+3)Value --> Actual data to deploy payload
 
 # Components in Apache Tomcat
 
@@ -80,7 +80,7 @@ The message Has three parts:
 
 # Interactions in Kafka
 
-  1)Producer to  Kafka cluster
+  1) Producer to  Kafka cluster
 
   2) Kafka Cluster to consumers
 
