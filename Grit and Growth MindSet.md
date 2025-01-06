@@ -7,6 +7,8 @@
 
 ## Introduction to Growth Mindset
 
+### Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
+
    Two types of mindset
 
    1) Fixed Mindset
@@ -20,11 +22,14 @@
 
   key Ingredients to growth -- efforts, challenges, mistakes, and feedback
 
-## Understanding Internal Locus of Control
+## What is the Internal Locus of Control? What is the key point in the video?
+
    Internal Locus of Control is thinking that whatever is happening is in your control. Doing Hardwork. Having motivation from the inside. I'm in control.
    Key Point: Having an Internal Locus of control will motivate you and make you work and that will give you fun. 
 
 ## Developing Growth Mindset
+
+Key Points mentioned by speaker
 
    * Believe in yourself
    * Questioning your assumptions
